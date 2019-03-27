@@ -20,6 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
+**IMPORTANT:** `daterangepicker` depends on [moment.js](https://momentjs.com/). Don't forget including `moment.js` first.
+
 In your `application.js` you will need to add this line:
 
     //= require daterangepicker
